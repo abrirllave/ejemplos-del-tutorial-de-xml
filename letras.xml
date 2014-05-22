@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Ejemplo uso de comentarios.-->
+
+<a>
+   <b>
+      <c cantidad="4">cccc</c>
+      <d cantidad="2">dd</d>
+   </b>
+   <e>
+      <f cantidad="8">ffffffff</f>
+
+      <!--g puede aparecer varias veces.-->
+
+      <g cantidad="5">ggggg</g>
+      <g cantidad="2">gg</g>
+   </e>
+</a>
